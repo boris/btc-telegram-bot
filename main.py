@@ -1,10 +1,11 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
+from datetime import datetime
 import requests
 import json
 import os
 import time
-from datetime import datetime
+
 
 url = "https://btc-api.borisquiroz.dev/btc"
 

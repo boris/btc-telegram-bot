@@ -1,5 +1,5 @@
 # Telegram BTC bot
-This is a simple telegram bot that can be used to get the current price of bitcoin in USD. The bot uses my own API price, on [btc-api.borisquiroz.dev](https://btc-api.borisquiroz.dev/btc).
+This is a simple telegram bot that can be used to get the current price of bitcoin in USD. The bot uses my own API price, on [btc-api.borisquiroz.dev](https://btc-api.borisquiroz.dev/btc). It also gets some data from [CoinMarketCap](https://coinmarketcap.com/), so an API key is required.
 
 This work was part of my regular "weekend projects".
 
